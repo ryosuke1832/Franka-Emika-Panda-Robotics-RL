@@ -1,1 +1,7 @@
-/vnev
+/venv
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
+
+/old
